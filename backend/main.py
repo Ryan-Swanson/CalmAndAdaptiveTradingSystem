@@ -8,8 +8,8 @@ def read_root() -> dict[str, str]:
 	return {"message": "CalmAndAdaptiveTradingSystem API"}
 
 
-@app.get("/healthz")
-def healthcheck() -> dict[str, str]:
-	return {"status": "ok"}
+@app.get("/health")
+def health() -> dict[str, str]:
+	return {"status": "healthy"}
 
 
