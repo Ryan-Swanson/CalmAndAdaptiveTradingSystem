@@ -8,7 +8,7 @@ This document lists all tasks associated with PBI 1.
 
 | Task ID | Name | Status | Description |
 | :------ | :--------------------------------------- | :------- | :--------------------------------- |
-| 1-1 | [Initialize Git repository and create directories](./1-1.md) | Review | Set up the base monorepo structure. |
+| 1-1 | [Initialize Git repository and create directories](./1-1.md) | Done | Set up the base monorepo structure. |
 | 1-2 | [Configure .gitignore](./1-2.md) | Done | Add ignore patterns for Node.js and Python. |
 | 1-3 | [Set up frontend environment](./1-3.md) | Done | Install Next.js, shadcn/ui, etc. |
 | 1-4 | [Set up backend environment](./1-4.md) | Done | Install FastAPI, Pydantic, etc. |
